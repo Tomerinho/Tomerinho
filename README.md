@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tomerinho
+- 👋 Hi, I’m @Tomerinio
 
 I've been developing games for a few years, mainly using Unity.<br>
 Also did some character modeling with Maya.<br>
